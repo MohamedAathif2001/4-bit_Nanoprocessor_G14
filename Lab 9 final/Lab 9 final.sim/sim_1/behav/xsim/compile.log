@@ -1,0 +1,40 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/ASUnit_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ASUnit_4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Adder_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Adder_3
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/D_FF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity D_FF
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/Decoder_2_to_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Decoder_2_to_4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/Decoder_3_to_8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Decoder_3_to_8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FA
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Final_Project.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Final_Project
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity HA
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Ins_Decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Ins_Decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/LUT_16_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LUT_16_7
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Mux_2_to_1_3bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_to_1_3bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Mux_2_to_1_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_2_to_1_4bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Mux_8_to_1_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux_8_to_1_4bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Nanoprocessor_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Nanoprocessor_4bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/PC_3bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC_3bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Prog_Rom.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Prog_Rom
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Reg_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_4bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/new/Reg_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_Bank
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sources_1/imports/new/Slow_Clk.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Slow_Clk
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.srcs/sim_1/new/Final_Project_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Final_Project_sim

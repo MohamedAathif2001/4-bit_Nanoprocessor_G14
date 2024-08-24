@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun Jun 11 16:51:37 2023
+# Process ID: 17664
+# Current directory: C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.runs/synth_1
+# Command line: vivado.exe -log Final_Project.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Final_Project.tcl
+# Log file: C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.runs/synth_1/Final_Project.vds
+# Journal file: C:/Users/Uzma/Desktop/Final/New folder/Lab 9 final/Lab 9 final.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Final_Project.tcl -notrace
